@@ -1,7 +1,3 @@
-Here’s a **GitHub README** file for your **Autonomous Package Sorting Machine Prototype** project:  
-
----
-
 # Autonomous Package Sorting Machine Prototype 🤖  
 
 An autonomous system designed to tackle logistics challenges on the planet **Calidi**. This project features a compact, efficient, and reliable solution for sorting diverse package types, showcasing advanced engineering concepts in automation and control systems.  
@@ -93,5 +89,3 @@ For inquiries, suggestions, or collaboration opportunities:
 - **LinkedIn:** https://www.linkedin.com/in/mjrzwan/
 
 ---
-
-This README highlights the key aspects of your project and presents it professionally to collaborators and potential employers. Let me know if you'd like any refinements!
